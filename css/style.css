@@ -1,19 +1,31 @@
 #bground {
   background-image: url("Fhome.jpg");
   background-size: cover;
-  height: 400px;
+  height: 500px;
 }
 
 h1 {
-  color: #b89d66;
+  color: #b89d66;s
   text-align: center;
   font-family: 'Cherry Swash', cursive;
+  text-shadow: 2px 2px 8px #000000
+}
+
+h2 {
+  color: #513726;s
+  text-align: center;
+  font-family: "Cabin"cursive;
+   text-shadow: 3px 3px 4px #777
 }
 
 #Welcome {
   text-align: center;
+  padding: 30px;
+  background: #513726;
 }
 
-.nav-item {
-  color: #b89d66;
+#botton {
+  background-image: url("funfo.jpg");
+  background-size: cover;
+  height: 5px;
 }
