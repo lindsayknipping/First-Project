@@ -4,6 +4,12 @@
   height: 500px;
 }
 
+#bground2 {
+  background-image: url("Fmenu.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
 h1 {
   color: #b89d66;s
   text-align: center;
@@ -18,6 +24,11 @@ h2 {
    text-shadow: 3px 3px 4px #777
 }
 
+div.just {
+  text-align: justify;
+}
+
+
 #Welcome {
   text-align: center;
   padding: 30px;
@@ -28,4 +39,22 @@ h2 {
   background-image: url("funfo.jpg");
   background-size: cover;
   height: 5px;
+}
+
+#price1 {
+  text-align: center;
+  width: 300px;
+  padding: 130px;
+}
+
+#price2 {
+  text-align: right;
+  width: 300px;
+  padding: 90px;
+}
+
+div.ex2 {
+  width: 300px;
+  padding: 50px;
+  box-sizing: border-box;
 }
